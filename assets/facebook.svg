@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="55"
+   width="55"
+   sodipodi:docname="facebook.svg"
+   xml:space="preserve"
+   viewBox="0 0 55 55"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata12"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs10" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="1912"
+   inkscape:cy="23.185393"
+   inkscape:cx="12.452809"
+   inkscape:zoom="9.2708333"
+   fit-margin-bottom="0"
+   fit-margin-right="0"
+   fit-margin-left="0"
+   fit-margin-top="0"
+   inkscape:snap-global="true"
+   showgrid="false"
+   id="namedview8"
+   inkscape:window-height="1057"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style2"
+   type="text/css">
+	.st0{fill:#346DA6;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g
+   transform="translate(-20.5,-20.5)"
+   id="XMLID_1_">
+	<circle
+   r="27.5"
+   cy="48"
+   cx="48"
+   class="st0"
+   id="XMLID_3_" />
+	<path
+   d="M 43.8,63.9 V 48 h -3.2 v -5.3 h 3.2 v -3.2 c 0,-4.3 1.3,-7.4 6,-7.4 h 5.6 v 5.3 h -3.9 c -2,0 -2.4,1.3 -2.4,2.7 v 2.6 h 6.1 L 54.3,48 h -5.2 v 15.9 z"
+   class="st1"
+   id="XMLID_4_" />
+</g>
+</svg>
